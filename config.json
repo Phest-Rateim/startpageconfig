@@ -14,7 +14,7 @@
   "time": false,
   "main": false,
   "dateformat": "eu",
-  "background_blur": 0,
+  "background_blur": 14,
   "background_bright": 0.8,
   "background_type": "local",
   "quicklinks": true,
@@ -36,49 +36,49 @@
   "linksrow": "16",
   "linksrppedr": {
     "_id": "linksrppedr",
-    "order": 1746125203513,
+    "order": 6,
     "parent": "Programar",
     "title": "Geminy",
     "url": "https://gemini.google.com/app"
   },
   "linksrbdrcp": {
     "_id": "linksrbdrcp",
-    "order": 1746125203513,
+    "order": 2,
     "parent": "Trabajo",
     "title": "LinkedIn",
     "url": "https://www.linkedin.com/"
   },
   "linksppfbam": {
     "_id": "linksppfbam",
-    "order": 1746125203513,
+    "order": 5,
     "parent": "Inicio",
     "title": "",
     "url": "https://www.facebook.com/messages/e2ee/t/7592935794159465"
   },
   "linkspcqepa": {
     "_id": "linkspcqepa",
-    "order": 1746125203513,
+    "order": 5,
     "parent": "Programar",
     "title": "Node",
     "url": "https://www.youtube.com/playlist?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7"
   },
   "linksoemcrk": {
     "_id": "linksoemcrk",
-    "order": 1746125203513,
+    "order": 4,
     "parent": "Inicio",
     "title": "",
     "url": "https://bdvenlinea.banvenez.com/"
   },
   "linksmjhjij": {
     "_id": "linksmjhjij",
-    "order": 1746125203513,
+    "order": 4,
     "parent": "Programar",
     "title": "React",
     "url": "https://www.youtube.com/playlist?list=PLUofhDIg_38q4D0xNWp7FEHOTcZhjWJ29"
   },
   "linksmcokkf": {
     "_id": "linksmcokkf",
-    "order": 1746125203513,
+    "order": 3,
     "parent": "Inicio",
     "title": "CV",
     "url": "https://app.enhancv.com/resume/67e9b64f6abd16f10f10e0e1",
@@ -86,99 +86,105 @@
   },
   "linksleodlh": {
     "_id": "linksleodlh",
-    "order": 1746125203513,
+    "order": 3,
     "parent": "Programar",
     "title": "KeyMaps",
     "url": "http://www.lazyvim.org/keymaps"
   },
   "linkskhbilj": {
     "_id": "linkskhbilj",
-    "order": 1746125203513,
+    "order": 2,
     "parent": "Inicio",
     "title": "",
     "url": "https://www3.animeflv.net/"
   },
   "linksigqkkr": {
     "_id": "linksigqkkr",
-    "order": 1746125203513,
+    "order": 2,
     "parent": "Programar",
     "title": "Vite",
     "url": "http://localhost:5173/"
   },
   "linksharqeh": {
     "_id": "linksharqeh",
-    "order": 1746125203513,
+    "order": 1,
     "parent": "Programar",
     "title": "DeepSeek",
     "url": "https://chat.deepseek.com/a/chat/s/b6d1ef26-46a9-42d8-8e4d-1165feaa4d0a"
   },
   "linksgqahbf": {
     "_id": "linksgqahbf",
-    "order": 1746125203513,
+    "order": 0,
     "parent": "Programar",
     "title": "Codi.Link",
     "url": "https://codi.link/%7C%7C"
   },
   "linksfoploh": {
     "_id": "linksfoploh",
-    "order": 1746125203513,
+    "order": 1,
     "parent": "Trabajo",
     "title": "CT",
     "url": "https://ve.computrabajo.com/empleos-de-informatica-y-telecom-en-distrito-capital"
   },
   "linksepbkfk": {
     "_id": "linksepbkfk",
-    "order": 1746125203513,
+    "order": 1,
     "parent": "Inicio",
     "title": "",
     "url": "https://persona.patria.org.ve/login/clave/"
   },
   "linksekrnap": {
     "_id": "linksekrnap",
-    "order": 1746125203513,
+    "order": 0,
     "parent": "Trabajo",
     "title": "make-it-in-germany",
     "url": "https://www.make-it-in-germany.com/es/trabajar-en-alemania/empleo/solicitud"
   },
+  "linksdibkcf": {
+    "_id": "linksdibkcf",
+    "order": 1746148874688,
+    "parent": "Yusme",
+    "title": "Anime",
+    "url": "https://www.anime-jl.net/anime/1763/the-apothecary-diaries-temporada-2-latino"
+  },
   "linkscldegn": {
     "_id": "linkscldegn",
-    "order": 1746125203513,
+    "order": 0,
     "parent": "Temporal",
     "title": "Win11",
     "url": "https://mediafire.com/file/bz2tmtacpb198dn/MiniOS11+LTSC+v2024.06+x64+-+dprojects.org.rar/file"
   },
   "linkscaokai": {
     "_id": "linkscaokai",
-    "order": 1746125203513,
+    "order": 0,
     "parent": "Inglés",
     "title": "DeepL",
     "url": "https://www.deepl.com/es/translator/l/en/es"
   },
   "linksaqrrlm": {
     "_id": "linksaqrrlm",
-    "order": 1746125203513,
+    "order": 0,
     "parent": "Inicio",
     "title": "PC",
     "url": "https://www.instagram.com/p/DAQ_G4pPVBC/?img_index=3"
   },
   "linkgroups": {
     "groups": [
-      "",
       "Inicio",
       "Programar",
       "Inglés",
       "Trabajo",
-      "Temporal"
+      "Temporal",
+      "Yusme"
     ],
     "on": true,
     "pinned": [
       "Inicio",
       "Programar",
-      "Inglés",
       "Trabajo",
       "Temporal"
     ],
-    "selected": "",
+    "selected": "Yusme",
     "synced": []
   },
   "clock": {
@@ -202,7 +208,7 @@
     "collection": "",
     "every": "hour",
     "lastCollec": "day",
-    "time": 1746122315035
+    "time": 1746130794715
   },
   "weather": {
     "city": "caracas",
